@@ -1,0 +1,82 @@
+{
+    "770066016": {
+        "name": "._.",
+        "link": "SmthFromSpace",
+        "permission": 2,
+        "status": 101,
+        "temp": {
+            "week": 1,
+            "day": 1,
+            "subject": 4
+        },
+        "settings": {
+            "dailySend": true,
+            "dailyTime": 1150,
+            "nextSend": false
+        }
+    },
+    "841231138": {
+        "name": "empty",
+        "link": "empty",
+        "permission": "1",
+        "status": 101,
+        "temp": {
+            "week": "empty",
+            "day": "empty",
+            "subject": "empty"
+        },
+        "settings": {
+            "dailySend": false,
+            "dailyTime": 990,
+            "nextSend": false
+        }
+    },
+    "1069459219": {
+        "name": "San Sanych",
+        "link": "m_p_t_i",
+        "permission": "1",
+        "status": 101,
+        "temp": {
+            "week": "empty",
+            "day": "empty",
+            "subject": 8
+        },
+        "settings": {
+            "dailySend": false,
+            "dailyTime": 990,
+            "nextSend": false
+        }
+    },
+    "1912249406": {
+        "name": "Kongroo",
+        "link": "ElPsyKongro0",
+        "permission": "1",
+        "status": 101,
+        "temp": {
+            "week": 1,
+            "day": 5,
+            "subject": "empty"
+        },
+        "settings": {
+            "dailySend": true,
+            "dailyTime": 990,
+            "nextSend": false
+        }
+    },
+    "5723862001": {
+        "name": "empty",
+        "link": "empty",
+        "permission": "1",
+        "status": 101,
+        "temp": {
+            "week": "empty",
+            "day": "empty",
+            "subject": "empty"
+        },
+        "settings": {
+            "dailySend": false,
+            "dailyTime": 990,
+            "nextSend": false
+        }
+    }
+}
